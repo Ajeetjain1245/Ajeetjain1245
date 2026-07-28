@@ -1,5 +1,42 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>Hi, I'm **Ajeet Jain**, a 4th-year Computer Science undergraduate at **Teerthanker Mahaveer University**. I enjoy building AI-powered applications, scalable full-stack solutions, and solving real-world problems using Machine Learning and Data Science. I have hands-on experience in MERN Stack development, ML pipelines, NLP, and REST APIs, and I'm always exploring new technologies to improve my skills. :contentReference[oaicite:0]{index=0}<br><br>---<br><br>### 🔭 I'm currently working on<br>- AI & Machine Learning projects<br>- Full-Stack (MERN) applications<br>- Backend Development with Node.js & Express<br>- Scalable REST APIs<br><br>### 🌱 I'm currently learning<br>- Advanced Backend Development<br>- Deep Learning<br>- System Design<br>- Docker & Deployment<br>- Cloud Technologies<br><br>### 👯 I'm looking to collaborate on<br>- Open Source Projects<br>- AI/ML Applications<br>- MERN Stack Projects<br>- Data Science Projects<br><br>### 💬 Ask me about<br>- Python<br>- Machine Learning<br>- Data Science<br>- MERN Stack<br>- REST APIs<br>- SQL & DBMS<br>- Git & GitHub<br><br>### ⚡ Fun Fact<br>I love turning real-world problems into software solutions and continuously learning new technologies.<br><br>---<br><br># 💻 Tech Stack<br><br>### Languages<br>- Python<br>- JavaScript<br>- SQL<br><br>### Full Stack<br>- React.js<br>- Node.js<br>- Express.js<br>- MongoDB<br>- MySQL<br>- HTML5<br>- CSS3<br>- EJS<br>- REST APIs<br>- JWT Authentication<br><br>### Machine Learning & AI<br>- Scikit-learn<br>- TensorFlow<br>- PyTorch<br>- XGBoost<br>- NLP<br>- Deep Learning<br>- Feature Engineering<br>- Model Deployment<br><br>### Data Science<br>- Pandas<br>- NumPy<br>- Matplotlib<br>- Seaborn<br>- Streamlit<br>- EDA<br>- SMOTE<br>- Data Pipelines<br><br>### Tools<br>- Git<br>- GitHub<br>- Postman<br>- Jupyter Notebook<br>- VS Code<br><br>### Core CS<br>- Data Structures<br>- DBMS<br>- OOP<br>- Operating Systems<br><br>---<br><br># 💼 Experience<br><br>### Data Science Intern — CodTech IT Solutions<br>**Jul 2025 – Aug 2025**<br><br>- Built automated ETL data pipelines using Pandas & Scikit-learn.<br>- Developed end-to-end Machine Learning classification models.<br>- Solved business optimization problems using Linear Programming (PuLP).<br>- Improved preprocessing efficiency and resource allocation through data-driven solutions. :contentReference[oaicite:1]{index=1}<br><br>---<br><br># 🚀 Featured Projects<br><br>### 🎟 TicketBazar<br>MERN-based Event Ticketing Platform with Buyer, Seller & Admin roles.<br><br>### 🧠 TrueCheck<br>ML-powered Ingredient Analysis using NLP and Gradient Boosting.<br><br>### 📊 ML Comparison Dashboard<br>Interactive Streamlit dashboard to compare multiple Machine Learning models. :contentReference[oaicite:2]{index=2}<br><br>---<br><br># 📫 Connect With Me<br><br>- 📧 Email: **ajeetjain1336@gmail.com**<br>- 💼 LinkedIn: **https://linkedin.com/in/ajeet-jain**<br>- 💻 GitHub: **https://github.com/Ajeetjain1245**
+# 💫 About Me
+
+Hi, I'm **Ajeet Jain**, a 4th-year Computer Science undergraduate passionate about **Machine Learning, Data Science, and Full-Stack (MERN) Development**. I enjoy building AI-powered applications, scalable web solutions, and solving real-world problems through software engineering.
+
+- 🔭 Currently working on **AI/ML** and **Full-Stack (MERN)** projects
+- 🌱 Learning **Advanced Backend Development, Docker, System Design & Cloud**
+- 👯 Open to collaborating on **Open Source, AI/ML, and MERN projects**
+- 💬 Ask me about **Python, Machine Learning, MERN Stack, REST APIs, SQL & Git**
+- ⚡ Fun fact: I enjoy turning ideas into impactful software solutions.
+
+# 💻 Tech Stack
+
+**Languages:** Python, JavaScript, SQL
+
+**Frontend:** React.js, HTML5, CSS3
+
+**Backend:** Node.js, Express.js, REST APIs, JWT
+
+**Database:** MongoDB, MySQL
+
+**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, XGBoost, NLP
+
+**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Streamlit
+
+**Tools:** Git, GitHub, Postman, Jupyter Notebook, VS Code
+
+**Core CS:** Data Structures, DBMS, OOP, Operating Systems
+
+# 💼 Experience
+
+**Data Science Intern – CodTech IT Solutions**
+- Built ETL pipelines and ML classification models.
+- Worked on feature engineering, model evaluation, and business optimization.
+
+# 🚀 Featured Projects
+
+- 🎟 **TicketBazar** – MERN-based Event Ticketing Platform
+- 🧠 **TrueCheck** – ML-powered Ingredient Analysis using NLP
+- 📊 **ML Comparison Dashboard** – Interactive Streamlit dashboard for comparing ML models
 
 
 ## 🌐 Socials:
